@@ -1,0 +1,11 @@
+streamlit>=1.52
+pandas>=2.1
+python-docx>=1.1
+openpyxl>=3.1
+pypdf>=4.0
+pypdfium2>=4.30
+pytesseract>=0.3.10
+Pillow>=10.0
+reportlab>=4.0
+rapidfuzz>=3.5
+anthropic>=0.40

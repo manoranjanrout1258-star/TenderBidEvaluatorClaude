@@ -1,0 +1,7 @@
+libreoffice-writer
+libreoffice-calc
+fonts-noto-core
+fonts-freefont-ttf
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-hin

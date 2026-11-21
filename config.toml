@@ -1,0 +1,10 @@
+[server]
+# each uploaded file may be up to 500 MB (the app also checks the 500 MB total per tab)
+maxUploadSize = 500
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#1F3864"
